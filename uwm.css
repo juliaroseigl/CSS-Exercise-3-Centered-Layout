@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: lavenderblush;
+    padding: 40px;
+}
+.main {
+    background-color:lavender;
+    padding: 40px;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+}
+
+.footer {
+   background-color:lavenderblush;
+    padding: 40px; 
+
+}

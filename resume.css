@@ -1,0 +1,10 @@
+body {
+    margin: 0ß;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+    padding: 40px;
+    background-color: lavenderblush;
+}
